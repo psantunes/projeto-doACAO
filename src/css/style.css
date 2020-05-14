@@ -411,10 +411,6 @@ h2 {
 .news h4 a:hover {
       color: #891815; }
   
-
-
-
-
 @media (max-width: 991.98px) {
   .main-menu {
     display: none !important; } }
@@ -426,6 +422,9 @@ h2 {
   .img-md-fluid {
         max-width: 100%; } }
     
-    .overlap-to-top {
+.overlap-to-top {
       margin-top: -150px; }
-    
+
+.site-menu-toggle {
+  margin-top: -15px; 
+}
