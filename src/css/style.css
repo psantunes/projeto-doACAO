@@ -128,7 +128,7 @@ h2 {
     -webkit-box-shadow: none !important;
     box-shadow: none !important; }
 
-/* lista não ordenada */
+/* lista nao ordenada */
 .ul-check li {
     position: relative;
     padding-left: 35px;
@@ -139,8 +139,7 @@ h2 {
       color: #af2423;
       font-size: 20px;
       top: -.3rem;
-      font-family: "icomoon";
-      content: "\e5ca";
+      content: ">";
       position: absolute; }
 
 .select-wrap, .wrap-icon {
